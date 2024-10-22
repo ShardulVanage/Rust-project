@@ -9,7 +9,7 @@ main(){
     //this is closures
     let add = |a:i32,b:i32|-> {
         a+b
-    } 
+    } ;
     //this is also closures
     let add = |a,b|a+b;
     
