@@ -1,5 +1,6 @@
 
 
+
 struct Pilot;
 impl CheckIn for Pilot{
     fn check_in(&self){
